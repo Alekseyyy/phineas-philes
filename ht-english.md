@@ -48,9 +48,13 @@ Like the CNT said after the Gamma Group hack: "Let's take a step forward with
 new forms of struggle" [5]. Hacking is a powerful tool, let's learn and fight!
 
 [1] http://pastebin.com/raw.php?i=cRYvK4jb
+
 [2] https://en.wikipedia.org/wiki/Citizens%27_Commission_to_Investigate_the_FBI
+
 [3] http://www.aljazeera.com/news/2015/09/algerian-hacker-hero-hoodlum-150921083914167.html
+
 [4] https://securelist.com/files/2015/02/Carbanak_APT_eng.pdf 
+
 [5] http://madrid.cnt.es/noticia/consideraciones-sobre-el-ataque-informatico-a-gamma-group
 
 
@@ -66,17 +70,29 @@ and the darknet [13]. But seeing as I'm still free, I have my doubts about
 its effectiveness.
 
 [1] http://www.animalpolitico.com/2015/07/el-gobierno-de-puebla-uso-el-software-de-hacking-team-para-espionaje-politico/
+
 [2] http://www.prensa.com/politica/claves-entender-Hacking-Team-Panama_0_4251324994.html
+
 [3] http://www.24-horas.mx/ecuador-espio-con-hacking-team-a-opositor-carlos-figueroa/
+
 [4] https://citizenlab.org/2012/10/backdoors-are-forever-hacking-team-and-the-targeting-of-dissent/
+
 [5] https://citizenlab.org/2014/02/hacking-team-targeting-ethiopian-journalists/
+
 [6] https://citizenlab.org/2015/03/hacking-team-reloaded-us-based-ethiopian-journalists-targeted-spyware/
+
 [7] http://focusecuador.net/2015/07/08/hacking-team-rodas-paez-tiban-torres-son-espiados-en-ecuador/
+
 [8] http://www.pri.org/stories/2015-07-08/these-ethiopian-journalists-exile-hacking-team-revelations-are-personal
+
 [9] https://theintercept.com/2015/07/07/leaked-documents-confirm-hacking-team-sells-spyware-repressive-countries/
+
 [10] http://www.wired.com/2013/06/spy-tool-sold-to-governments/
+
 [11] http://www.theregister.co.uk/2015/07/13/hacking_team_vietnam_apt/
+
 [12] http://www.ilmessaggero.it/primopiano/cronaca/yara_bossetti_hacking_team-1588888.html
+
 [13] http://motherboard.vice.com/en_ca/read/hacking-team-founder-hey-fbi-we-can-help-you-crack-the-dark-web
 
 
@@ -118,15 +134,25 @@ precautions:
    to investigate, and I've never had any problems.
 
 [1] https://www.torproject.org/
+
 [2] https://info.securityinabox.org/es/chapter-4
+
 [3] https://www.whonix.org/
+
 [4] https://tails.boum.org/
+
 [5] https://www.qubes-os.org/doc/privacy/torvm/
+
 [6] https://trac.torproject.org/projects/tor/wiki/doc/TransparentProxy
+
 [7] https://www.whonix.org/wiki/Comparison_with_Others
+
 [8] https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack/
+
 [9] http://www.wifislax.com/
+
 [10] https://www.torproject.org/docs/bridges.html.en
+
 [11] http://www.documentcloud.org/documents/1342115-timeline-correlation-jeremy-hammond-and-anarchaos.html
 
 
@@ -218,14 +244,23 @@ Some tools and techniques are:
    sites.
 
 [1] http://www.nytimes.com/2015/12/27/business/dealbook/the-unsung-tax-agent-who-put-a-face-on-the-silk-road.html
+
 [2] http://web.archive.org/web/20140610083726/http://www.soulblack.com.ar/repo/papers/hackeando_con_google.pdf
+
 [3] http://ha.ckers.org/fierce/
+
 [4] https://github.com/laramies/theHarvester
+
 [5] https://bitbucket.org/LaNMaSteR53/recon-ng
+
 [6] https://nmap.org/
+
 [7] https://zmap.io/
+
 [8] https://github.com/robertdavidgraham/masscan
+
 [9] http://www.morningstarsecurity.com/research/whatweb
+
 [10] http://blindelephant.sourceforge.net/
 
 
@@ -263,6 +298,7 @@ software, etc. Some resources are:
    [1] and FOCA [2].
 
 [1] https://github.com/laramies/metagoofil
+
 [2] https://www.elevenpaths.com/es/labstools/foca-2/index.html
 
 
@@ -284,7 +320,9 @@ is helping governments spear phish their opponents, so they'd be much more
 likely to recognize and investigate a spear phishing attempt.
 
 [1] http://www.hacknbytes.com/2016/01/apt-pentest-con-empire.html
+
 [2] http://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/
+
 [3] http://www.netcomunity.com/lestertheteacher/doc/ingsocial1.pdf
 
 
@@ -318,8 +356,11 @@ details, but for more information on finding these kinds of vulnerabilities,
 see [3] and [4].
 
 [1] http://pastebin.com/raw.php?i=cRYvK4jb
+
 [2] http://sourceforge.net/projects/joomscan/
+
 [3] http://www.devttys0.com/
+
 [4] https://docs.google.com/presentation/d/1-mtBSka1ktdh8RHxo2Ft0oNNlIp7WmDA2z9zzHpon8A
 
 
@@ -385,14 +426,23 @@ The post-exploitation tools that I'd prepared were:
    For forwarding ports, like for the SOCKS server, through the firewall.
 
 [1] https://www.busybox.net/
+
 [2] https://nmap.org/
+
 [3] https://github.com/SpiderLabs/Responder
+
 [4] https://github.com/bendmorris/static-python
+
 [5] http://www.tcpdump.org/
+
 [6] http://www.monkey.org/~dugsong/dsniff/
+
 [7] http://www.dest-unreach.org/socat/
+
 [8] https://www.gnu.org/software/screen/
+
 [9] http://average-coder.blogspot.com/2011/09/simple-socks5-server-in-c.html
+
 [10] http://tgcd.sourceforge.net/
 
 
@@ -439,10 +489,15 @@ is stored in MongoDB with GridFS. The audio folder in the torrent [6] came
 from this. They were spying on themselves without meaning to.
 
 [1] https://www.shodan.io/search?query=product%3Amongodb
+
 [2] https://community.rapid7.com/community/metasploit/blog/2012/06/11/cve-2012-2122-a-tragically-comedic-security-flaw-in-mysql
+
 [3] http://archives.neohapsis.com/archives/vulnwatch/2004-q3/0001.html
+
 [4] http://downloads.securityfocus.com/vulnerabilities/exploits/hoagie_mysql.c
+
 [5] http://archives.neohapsis.com/archives/bugtraq/2000-02/0053.html
+
 [6] https://ht.transparencytoolkit.org/audio/
 
 
@@ -555,9 +610,13 @@ HACKINGTEAM  e.ciceri       2O2571&2E
 HACKINGTEAM  e.rabe         erab@4HT!
 
 [1] https://github.com/Neohapsis/creddump7
+
 [2] http://proxychains.sourceforge.net/
+
 [3] https://www.samba.org/
+
 [4] http://ns2.elhacker.net/timofonica/manuales/Manual_de_Metasploit_Unleashed.pdf
+
 [5] https://github.com/gentilkiwi/mimikatz
 
 
@@ -612,7 +671,9 @@ techniques for "in place" movement also require administrative privileges
 PowerUp [2], and bypassuac [3].
 
 [1] https://adsecurity.org/?page_id=1821
+
 [2] https://github.com/PowerShellEmpire/PowerTools/tree/master/PowerUp
+
 [3] https://github.com/PowerShellEmpire/Empire/blob/master/data/module_source/privesc/Invoke-BypassUAC.ps1
 
 
@@ -662,17 +723,29 @@ Remote Movement:
    open the firewall.
 
 [1] https://technet.microsoft.com/en-us/sysinternals/psexec.aspx
+
 [2] https://sourceforge.net/projects/winexe/
+
 [3] https://www.rapid7.com/db/modules/exploit/windows/smb/psexec_psh
+
 [4] http://www.powershellempire.com/?page_id=523
+
 [5] http://blog.cobaltstrike.com/2014/04/30/lateral-movement-with-high-latency-cc/
+
 [6] https://github.com/byt3bl33d3r/pth-toolkit
+
 [7] https://github.com/CoreSecurity/impacket/blob/master/examples/wmiexec.py
+
 [8] https://www.trustedsec.com/june-2015/no_psexec_needed/
+
 [9] http://www.powershellempire.com/?page_id=124
+
 [10] http://www.maquinasvirtuales.eu/ejecucion-remota-con-powershell/
+
 [11] https://adsecurity.org/?p=2277
+
 [12] https://www.secureworks.com/blog/where-you-at-indicators-of-lateral-movement-using-at-exe-on-windows-7-systems
+
 [13] https://github.com/PowerShellEmpire/Empire/blob/master/lib/modules/lateral_movement/new_gpo_immediate_task.py
 
 
@@ -708,12 +781,19 @@ Remote Movement:
    powershell [8].
 
 [1] https://www.indetectables.net/viewtopic.php?p=211165
+
 [2] https://adsecurity.org/?page_id=1821
+
 [3] https://github.com/bidord/pykek
+
 [4] https://adsecurity.org/?p=676
+
 [5] http://www.hackplayers.com/2014/12/CVE-2014-6324-como-validarse-con-cualquier-usuario-como-admin.html
+
 [6] https://github.com/n1nj4sec/pupy
+
 [7] http://www.powershellempire.com/?page_id=273
+
 [8] https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-Runas.ps1
 
 
@@ -729,8 +809,11 @@ about the different techniques for persistence in windows here [2][3][4]. But
 for hacking companies, it's not needed and it increases the risk of detection.
 
 [1] http://blog.cobaltstrike.com/2014/05/14/meterpreter-kiwi-extension-golden-ticket-howto/
+
 [2] http://www.harmj0y.net/blog/empire/nothing-lasts-forever-persistence-with-empire/
+
 [3] http://www.hexacorn.com/blog/category/autostart-persistence/
+
 [4] https://blog.netspi.com/tag/persistence/
 
 
@@ -781,18 +864,31 @@ the old school [8], with programs like netview.exe [9] or the windows builtin
    [14], and GPO, you can spy on any employee, or even on the whole domain.
 
 [1] https://github.com/PowerShellEmpire/PowerTools/tree/master/PowerView
+
 [2] http://www.harmj0y.net/blog/tag/powerview/
+
 [3] http://www.harmj0y.net/blog/powershell/veil-powerview-a-usage-guide/
+
 [4] http://www.harmj0y.net/blog/redteaming/powerview-2-0/
+
 [5] http://www.harmj0y.net/blog/penetesting/i-hunt-sysadmins/
+
 [6] http://www.slideshare.net/harmj0y/i-have-the-powerview
+
 [7] https://adsecurity.org/?p=2535
+
 [8] https://www.youtube.com/watch?v=rpwrKhgMd7E
+
 [9] https://github.com/mubix/netview
+
 [10] https://blogs.msdn.microsoft.com/rcormier/2013/03/30/how-to-perform-bulk-downloads-of-files-in-sharepoint/
+
 [11] https://adsecurity.org/?page_id=41
+
 [12] http://www.darkoperator.com/?tag=Active+Directory
+
 [13] https://github.com/PowerShellMafia/PowerSploit
+
 [14] https://github.com/samratashok/nishang
 
 
@@ -817,13 +913,21 @@ included them in the leak as a false clue, and to laugh at him. The reality is
 that mimikatz and keyloggers view all passwords equally.
 
 [1] http://hacking.technology/Hacked%20Team/FileServer/FileServer/Hackingteam/InfrastrutturaIT/
+
 [2] http://www.hammer-software.com/wmigphowto.shtml
+
 [3] https://www.trustedsec.com/june-2015/no_psexec_needed/
+
 [4] https://gallery.technet.microsoft.com/scriptcenter/PowerShell-Credentials-d44c3cde
+
 [5] http://pwnwiki.io/#!presence/windows/find_files.md
+
 [6] http://archive.is/TbaPy
+
 [7] http://hacking.technology/Hacked%20Team/c.pozzi/screenshots/
+
 [8] http://hacking.technology/Hacked%20Team/c.pozzi/Desktop/you.txt
+
 [9] http://hacking.technology/Hacked%20Team/c.pozzi/credentials/
 
 
@@ -838,6 +942,7 @@ requires that at least one user has a session initiated, for which I used the
 password from the textfile).
 
 [1] http://hacking.technology/Hacked%20Team/c.pozzi/Truecrypt%20Volume/Login%20HT.txt
+
 [2] http://seclists.org/fulldisclosure/2014/Oct/78
 
 
@@ -881,6 +986,7 @@ To send me spear phishing attempts, death threats in Italian [1][2], and to
 give me 0days or access inside banks, corporations, governments, etc.
 
 [1] http://andres.delgado.ec/2016/01/15/el-miedo-de-vigilar-a-los-vigilantes/
+
 [2] https://twitter.com/CthulhuSec/status/619459002854977537
 
 only encrypted email please:
